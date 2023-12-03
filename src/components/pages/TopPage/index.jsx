@@ -27,7 +27,7 @@ TopPagePresenter.propTypes = {
   searchNext: PropTypes.func.isRequired,
   defaultKeyword: PropTypes.string,
   videos: VideosList.propTypes.videos,
-  loading: PropTypes.bool,
+  loading: PropTypes.bool,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
 };
 
 TopPagePresenter.defaultProps = {
